@@ -1,0 +1,23 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .todolist-title {
+    margin-bottom: 10px;
+    font-size: 20px;
+  }
+  .form-input {
+    margin-right: 20px;
+    font-size: 15px;
+  }
+  .form-button {
+    background-color: yellow;
+  }
+  .button-delete {
+    background-color: red;
+  }
+  .todo-box {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
