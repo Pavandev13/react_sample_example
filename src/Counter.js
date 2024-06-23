@@ -12,7 +12,7 @@ function App() {
     }
   };
 
-  console.log('pavan')
+ 
 
   const pauseCounter = () => {
     if (intervalRef.current != null) {
